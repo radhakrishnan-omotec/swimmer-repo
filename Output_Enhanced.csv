@@ -1,0 +1,51 @@
+,age,gender,how long have you been swimming competively ,what coping mechanism do you use to overcome / duce anxiety,do you find talking to someone helps ? i so who,what distance do you swim,what part of your race was affected ?,name ,do you think it was a good race ,was the time you gove a personal best ?,were you nervouse before the race ?,how do you think the nervousness affected your race ?,on a scale of 10 how nervous were you ,did your nervousness afftect you physically ,how long fore your race did you start to feel nervous ,do you think if you did not feel nervous goy would uave performed better ?,did you do anything to feel less nervous ,do you think it worked ? ,have you felt like this before in practice ,gender_new,Age_group_new,Q1_new,Q2_new,Q3_new,Q4_new,Q5_new,Q6_new,Q7_new,Q8_new,Q9_new,Q11_new,Q12_new
+0,>21,male,1-3 years,breathing exercises,friend,short,sprint,Radhakrishnan Rajan,no,no,yes,in a negative way,8,yes,10 minutes,yes,no,no,no,2,0.0,9,3,5,3,2,2,2,2,2,0,5
+1,19, female, 3-5 years, meditation, coach, long, middle, Sanjana Prasad, yes, yes, yes, in a positive way,7, no, 15 minutes, no, yes, yes,,0,,4,0,0,1,1,1,1,0,0,1,2
+2,22, male, 5-7 years, visualization, teammate, short, sprint, Arjun Menon, yes, yes, no, in a negative way,8, yes, 20 minutes, yes, yes, no,,1,,7,2,4,2,1,1,0,1,1,1,3
+3,18, female, 1-3 years, listening to music, family, medium, middle, Riya Nair, no, no, yes, in a positive way,6, no, 30 minutes, no, no, yes,,0,,3,1,1,1,0,0,1,0,0,1,0
+4,20, male, 7-10 years, deep breathing, friend, short, sprint, Vikram Singh, yes, yes, no, in a negative way,9, yes, 5 minutes, yes, no, yes,,1,,1,2,2,2,1,1,0,1,1,1,4
+5,21, female, 3-5 years, stretching, coach, long, endurance, Aishwarya Reddy, no, no, yes, in a positive way,6, no, 25 minutes, no, yes, no,,0,,5,0,0,0,0,0,1,0,0,1,2
+6,23, male, 10+ years, talking to family, sibling, short, sprint, Surya Verma, yes, no, yes, in a negative way,8, yes, 10 minutes, yes, no, yes,,1,,6,2,3,2,1,0,0,1,1,1,1
+7,19, female, 1-3 years, yoga, friend, medium, middle, Ananya Patil, yes, yes, no, in a positive way,5, no, 20 minutes, no, yes, no,,0,,8,1,2,1,1,1,1,0,0,1,0
+8,24, male, 7-10 years, focusing on technique, teammate, long, endurance, Rajesh Kumar, yes, yes, yes, in a negative way,7, yes, 15 minutes, yes, yes, no,,1,,2,0,4,0,1,1,0,1,1,1,4
+9,22, female, 5-7 years, breathing exercises, coach, short, sprint, Meera Iyer, no, no, yes, in a positive way,6, no, 30 minutes, no, no, yes,,0,,0,2,0,2,0,0,1,0,0,1,3
+10,20, male, 3-5 years, listening to music, friend, medium, middle, Karthik Sharma, yes, yes, no, in a negative way,9, yes, 5 minutes, yes, no, yes,,1,,3,1,2,1,1,1,0,1,1,1,2
+11,21, female, 1-3 years, meditation, family, long, endurance, Shweta Rao, no, no, yes, in a positive way,6, no, 25 minutes, no, yes, no,,0,,4,0,1,0,0,0,1,0,0,1,0
+12,18, male, 3-5 years, visualization, sibling, short, sprint, Aditya Bhat, yes, yes, yes, in a negative way,8, yes, 10 minutes, yes, no, yes,,1,,7,2,3,2,1,1,0,1,1,1,2
+13,23, female, 7-10 years, yoga, teammate, medium, middle, Nidhi Mehta, yes, no, yes, in a positive way,7, no, 20 minutes, no, yes, no,,0,,8,1,4,1,1,0,1,0,0,1,4
+14,22, male, 5-7 years, deep breathing, coach, long, endurance, Rohan Desai, no, no, yes, in a negative way,9, yes, 5 minutes, yes, no, yes,,1,,1,0,0,0,0,0,0,1,1,1,3
+15,19, female, 1-3 years, listening to music, friend, short, sprint, Kavya Joshi, yes, yes, no, in a positive way,6, no, 30 minutes, no, yes, no,,0,,3,2,2,2,1,1,1,0,0,1,0
+16,20, male, 7-10 years, meditation, family, medium, middle, Suresh Nair, no, no, yes, in a negative way,8, yes, 15 minutes, yes, no, yes,,1,,4,1,1,1,0,0,0,1,1,1,4
+17,24, female, 10+ years, visualization, coach, long, endurance, Divya Shah, yes, yes, no, in a positive way,7, no, 10 minutes, no, yes, yes,,0,,7,0,0,0,1,1,1,0,0,1,1
+18,21, male, 3-5 years, yoga, teammate, short, sprint, Varun Reddy, yes, yes, yes, in a negative way,9, yes, 5 minutes, yes, no, no,,1,,8,2,4,2,1,1,0,1,1,1,2
+19,22, female, 5-7 years, breathing exercises, family, medium, middle, Priya Sinha, no, no, yes, in a positive way,6, no, 20 minutes, no, yes, no,,0,,0,1,1,1,0,0,1,0,0,1,3
+20,18, male, 1-3 years, stretching, friend, long, endurance, Siddharth Kumar, yes, yes, no, in a negative way,8, yes, 30 minutes, yes, no, yes,,1,,5,0,2,0,1,1,0,1,1,1,0
+21,19, female, 3-5 years, meditation, sibling, short, sprint, Anjali Desai, no, no, yes, in a positive way,7, no, 25 minutes, no, yes, no,,0,,4,2,3,2,0,0,1,0,0,1,2
+22,20, male, 7-10 years, deep breathing, teammate, medium, middle, Akshay Patel, yes, yes, no, in a negative way,9, yes, 10 minutes, yes, no, yes,,1,,1,1,4,1,1,1,0,1,1,1,4
+23,24, female, 10+ years, visualization, coach, long, endurance, Shruti Menon, yes, no, yes, in a positive way,6, no, 20 minutes, no, yes, yes,,0,,7,0,0,0,1,0,1,0,0,1,1
+24,21, male, 1-3 years, listening to music, family, short, sprint, Pranav Sharma, no, no, yes, in a negative way,8, yes, 5 minutes, yes, no, yes,,1,,3,2,1,2,0,0,0,1,1,1,0
+25,22, female, 3-5 years, yoga, friend, medium, middle, Ishita Reddy, yes, yes, no, in a positive way,7, no, 30 minutes, no, yes, no,,0,,8,1,2,1,1,1,1,0,0,1,2
+26,19, male, 5-7 years, breathing exercises, coach, long, endurance, Shyam Iyer, yes, yes, yes, in a negative way,9, yes, 15 minutes, yes, no, yes,,1,,0,0,0,0,1,1,0,1,1,1,3
+27,23, female, 7-10 years, meditation, sibling, short, sprint, Radhika Nair, no, no, yes, in a positive way,6, no, 10 minutes, no, yes, yes,,0,,4,2,3,2,0,0,1,0,0,1,4
+28,20, male, 1-3 years, stretching, teammate, medium, middle, Tejas Patel, yes, yes, no, in a negative way,8, yes, 25 minutes, yes, no, yes,,1,,5,1,4,1,1,1,0,1,1,1,0
+29,18, female, 3-5 years, listening to music, friend, long, endurance, Sneha Sharma, yes, no, yes, in a positive way,7, no, 30 minutes, no, yes, no,,0,,3,0,2,0,1,0,1,0,0,1,2
+30,22, male, 7-10 years, deep breathing, family, short, sprint, Vivek Menon, no, no, yes, in a negative way,9, yes, 5 minutes, yes, no, yes,,1,,1,2,1,2,0,0,0,1,1,1,4
+31,24, female, 10+ years, yoga, coach, medium, middle, Pooja Rao, yes, yes, no, in a positive way,6, no, 20 minutes, no, yes, yes,,0,,8,1,0,1,1,1,1,0,0,1,1
+32,21, male, 1-3 years, meditation, sibling, long, endurance, Abhinav Joshi, yes, yes, yes, in a negative way,8, yes, 10 minutes, yes, no, yes,,1,,4,0,3,0,1,1,0,1,1,1,0
+33,19, female, 3-5 years, visualization, teammate, short, sprint, Neha Reddy, no, no, yes, in a positive way,7, no, 25 minutes, no, yes, no,,0,,7,2,4,2,0,0,1,0,0,1,2
+34,22, male, 5-7 years, deep breathing, friend, medium, middle, Aravind Kumar, yes, yes, no, in a negative way,9, yes, 30 minutes, yes, no, yes,,1,,1,1,2,1,1,1,0,1,1,1,3
+35,20, female, 7-10 years, listening to music, family, long, endurance, Kavita Sharma, yes, no, yes, in a positive way,6, no, 15 minutes, no, yes, yes,,0,,3,0,1,0,1,0,1,0,0,1,4
+36,18, male, 1-3 years, yoga, coach, short, sprint, Manish Nair, yes, yes, yes, in a negative way,8, yes, 5 minutes, yes, no, yes,,1,,8,2,0,2,1,1,0,1,1,1,0
+37,23, female, 3-5 years, breathing exercises, sibling, medium, middle, Roshni Iyer, no, no, yes, in a positive way,7, no, 20 minutes, no, yes, no,,0,,0,1,3,1,0,0,1,0,0,1,2
+38,19, male, 5-7 years, stretching, teammate, long, endurance, Arjun Menon, yes, yes, no, in a negative way,9, yes, 30 minutes, yes, no, yes,,1,,5,0,4,0,1,1,0,1,1,1,3
+39,21, female, 7-10 years, meditation, friend, short, sprint, Anika Desai, yes, no, yes, in a positive way,6, no, 10 minutes, no, yes, yes,,0,,4,2,2,2,1,0,1,0,0,1,4
+40,20, male, 1-3 years, visualization, family, medium, middle, Rajesh Patel, no, no, yes, in a negative way,8, yes, 5 minutes, yes, no, yes,,1,,7,1,1,1,0,0,0,1,1,1,0
+41,22, female, 3-5 years, deep breathing, coach, long, endurance, Shraddha Reddy, yes, yes, yes, in a positive way,7, no, 25 minutes, no, yes, no,,0,,1,0,0,0,1,1,1,0,0,1,2
+42,19, male, 5-7 years, listening to music, sibling, short, sprint, Nikhil Sharma, yes, yes, no, in a negative way,9, yes, 10 minutes, yes, no, yes,,1,,3,2,3,2,1,1,0,1,1,1,3
+43,21, female, 7-10 years, yoga, friend, medium, middle, Tanya Menon, no, no, yes, in a positive way,6, no, 30 minutes, no, yes, yes,,0,,8,1,2,1,0,0,1,0,0,1,4
+44,24, male, 10+ years, meditation, teammate, long, endurance, Ashwin Kumar, yes, yes, yes, in a negative way,8, yes, 5 minutes, yes, no, yes,,1,,4,0,4,0,1,1,0,1,1,1,1
+45,20, female, 1-3 years, visualization, family, short, sprint, Sanya Desai, yes, no, yes, in a positive way,7, no, 15 minutes, no, yes, no,,0,,7,2,1,2,1,0,1,0,0,1,0
+46,18, male, 3-5 years, deep breathing, coach, medium, middle, Sahil Patel, yes, yes, no, in a negative way,9, yes, 20 minutes, yes, no, yes,,1,,1,1,0,1,1,1,0,1,1,1,2
+47,19, female, 5-7 years, listening to music, friend, long, endurance, Aditi Nair, no, no, yes, in a positive way,6, no, 25 minutes, no, yes, yes,,0,,3,0,2,0,0,0,1,0,0,1,3
+48,22, male, 7-10 years, yoga, sibling, short, sprint, Kiran Reddy, yes, yes, yes, in a negative way,8, yes, 10 minutes, yes, no, yes,,1,,8,2,3,2,1,1,0,1,1,1,4
+49,20, female, 3-5 years, stretching, teammate, medium, middle, Priyanka Joshi, no, no, yes, in a positive way,7, no, 30 minutes, no, yes, no,,0,,5,1,4,1,0,0,1,0,0,1,2
